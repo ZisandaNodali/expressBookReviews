@@ -1,0 +1,25 @@
+{
+  "name": "expressbookreviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-developer-skills-network/expressBookReviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ibm-developer-skills-network/expressBookReviews/issues"
+  },
+  "homepage": "https://github.com/ibm-developer-skills-network/expressBookReviews#readme",
+  "dependencies": {
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
